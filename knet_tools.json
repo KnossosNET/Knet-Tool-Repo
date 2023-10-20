@@ -28,7 +28,7 @@
     "cmdline": "",
     "packages": [
       {
-        "download_url": "",
+        "download_url": "https://raw.githubusercontent.com/Shivansps/Knet-Tool-Repo/main/legacy/ANIBLD32.zip",
         "os": "windows",
         "cpu_arch": "x86",
         "executable_path": "ANIBLD32.exe"
@@ -43,7 +43,7 @@
     "cmdline": "",
     "packages": [
       {
-        "download_url": "",
+        "download_url": "https://raw.githubusercontent.com/Shivansps/Knet-Tool-Repo/main/legacy/ANIVIW32.zip",
         "os": "windows",
         "cpu_arch": "x86",
         "executable_path": "ANIVIW32.exe"
@@ -58,7 +58,7 @@
     "cmdline": "",
     "packages": [
       {
-        "download_url": "",
+        "download_url": "https://raw.githubusercontent.com/Shivansps/Knet-Tool-Repo/main/legacy/MODVIW32_HI.zip",
         "os": "windows",
         "cpu_arch": "x86",
         "executable_path": "modviw32.exe"
@@ -73,7 +73,7 @@
     "cmdline": "",
     "packages": [
       {
-        "download_url": "",
+        "download_url": "https://raw.githubusercontent.com/Shivansps/Knet-Tool-Repo/main/legacy/VPVIEW32_20.zip",
         "os": "windows",
         "cpu_arch": "x86",
         "executable_path": "vpview32_20.exe"
@@ -88,7 +88,7 @@
     "cmdline": "",
     "packages": [
       {
-        "download_url": "",
+        "download_url": "https://raw.githubusercontent.com/Shivansps/Knet-Tool-Repo/main/legacy/VPCS.zip",
         "os": "windows",
         "cpu_arch": "x86",
         "executable_path": "vpcs2.exe"
