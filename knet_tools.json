@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Pof Tools",
+    "version": "1.5.1",
+    "description": "Pof Tools is a program for Windows and Linux which let's you edit properties of Freespace's model format .pof as well as convert them to and from .dae that is meant as a successor to PCS2.",
+    "last_update": "2023-10-03",
+    "cmdline": "",
+    "packages": [
+      {
+        "download_url": "https://github.com/Baezon/pof-tools/releases/download/v1.5.1/pof-tools-for-windows.zip",
+        "os": "windows",
+        "cpu_arch": "x64",
+        "executable_path": "pof-tools.exe"
+      },
+	  {
+        "download_url": "https://github.com/Baezon/pof-tools/releases/download/v1.5.1/pof-tools-for-linux.zip",
+        "os": "linux",
+        "cpu_arch": "x64",
+        "executable_path": "pof-tools"
+      }
+    ]
+  },
+  {
+    "name": "(DM-Tools) ANIBuilder32",
+    "version": "1.0.0-Beta01Build04",
+    "description": "Legacy Tool to make .ANI files",
+    "last_update": "2000-08-03",
+    "cmdline": "",
+    "packages": [
+      {
+        "download_url": "",
+        "os": "windows",
+        "cpu_arch": "x86",
+        "executable_path": "ANIBLD32.exe"
+      }
+    ]
+  },
+  {
+    "name": "(DM-Tools) ANIView32",
+    "version": "1.1.0-Build10",
+    "description": "Legacy Tool to view .ANI files",
+    "last_update": "2000-08-04",
+    "cmdline": "",
+    "packages": [
+      {
+        "download_url": "",
+        "os": "windows",
+        "cpu_arch": "x86",
+        "executable_path": "ANIVIW32.exe"
+      }
+    ]
+  },
+  {
+    "name": "(DM-Tools) ModelView32 HI",
+    "version": "1.0.0-Beta05Build28",
+    "description": "Legacy Tool to view .pof files",
+    "last_update": "2002-12-24",
+    "cmdline": "",
+    "packages": [
+      {
+        "download_url": "",
+        "os": "windows",
+        "cpu_arch": "x86",
+        "executable_path": "modviw32.exe"
+      }
+    ]
+  },
+  {
+    "name": "(DM-Tools) VPView32",
+    "version": "2.0.0-Beta05Build108",
+    "description": "Legacy Tool to view and extract .VP files",
+    "last_update": "2002-02-11",
+    "cmdline": "",
+    "packages": [
+      {
+        "download_url": "",
+        "os": "windows",
+        "cpu_arch": "x86",
+        "executable_path": "vpview32_20.exe"
+      }
+    ]
+  },
+  {
+    "name": "VP Constructor Suite 2",
+    "version": "1.0.0-RC1",
+    "description": "Legacy tool to make VPs",
+    "last_update": "2004-12-27",
+    "cmdline": "",
+    "packages": [
+      {
+        "download_url": "",
+        "os": "windows",
+        "cpu_arch": "x86",
+        "executable_path": "vpcs2.exe"
+      }
+    ]
+  }
+]
