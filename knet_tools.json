@@ -1,19 +1,19 @@
 [
   {
-    "name": "Pof Tools",
+    "name": "POF Tools",
     "version": "1.5.1",
-    "description": "Pof Tools is a program for Windows and Linux which let's you edit properties of Freespace's model format .pof as well as convert them to and from .dae that is meant as a successor to PCS2.",
-    "last_update": "2023-10-03",
+    "description": "POF Tools is a program for Windows and Linux which let's you edit properties of Freespace's model format .pof as well as convert them to and from .dae that is meant as a successor to PCS2.",
+    "last_update": "2023-11-16",
     "cmdline": "",
     "packages": [
       {
-        "download_url": "https://github.com/Baezon/pof-tools/releases/download/v1.5.1/pof-tools-for-windows.zip",
+        "download_url": "https://github.com/Baezon/pof-tools/releases/download/v1.5.2/pof-tools-for-windows.zip",
         "os": "windows",
         "cpu_arch": "x64",
         "executable_path": "pof-tools.exe"
       },
 	  {
-        "download_url": "https://github.com/Baezon/pof-tools/releases/download/v1.5.1/pof-tools-for-linux.zip",
+        "download_url": "https://github.com/Baezon/pof-tools/releases/download/v1.5.2/pof-tools-for-linux.zip",
         "os": "linux",
         "cpu_arch": "x64",
         "executable_path": "pof-tools"
