@@ -82,7 +82,7 @@
         "download_url": "https://github.com/MjnMixael/Etemenanki/releases/download/Version_1.0.0/Etemenanki_v1-0-0.zip",
         "os": "windows",
         "cpu_arch": "x64",
-        "executable_path": "Etemenanki.exe"
+        "executable_path": "Release/Etemenanki.exe"
       }
     ]
   },
