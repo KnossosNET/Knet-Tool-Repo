@@ -73,13 +73,13 @@
   },
   {
     "name": "Etemenanki",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Etemenanki is a tool meant to facilitate creating a full tstrings.tbl for games in the FreespaceOpen engine. It recursively scans a directory for valid files and uses regex to find translatable strings and string IDs. It will then replace the ID with a valid one and save the string and ID to the generated tstrings.tbl file.",
-    "last_update": "2024-01-18",
+    "last_update": "2024-01-24",
     "cmdline": "",
     "packages": [
       {
-        "download_url": "https://github.com/MjnMixael/Etemenanki/releases/download/Version_1.1.0/Etemenanki_v1-1-0.zip",
+        "download_url": "https://github.com/MjnMixael/Etemenanki/releases/download/Version_1.2.0/Etemenanki_v1-2-0.zip",
         "os": "windows",
         "cpu_arch": "x64",
         "executable_path": "Release/Etemenanki.exe"
