@@ -87,9 +87,9 @@
     ]
   },
   {
-    "name": "(DM-Tools) ANIBuilder32",
+    "name": "ANIBuilder32",
     "version": "1.0.0-Beta01Build04",
-    "description": "Legacy Tool to make .ANI files",
+    "description": "Legacy Tool to make .ANI files, part of the Descent Manager Tools package.",
     "last_update": "2000-08-03",
     "cmdline": "",
     "packages": [
@@ -102,9 +102,9 @@
     ]
   },
   {
-    "name": "(DM-Tools) ANIView32",
+    "name": "ANIView32",
     "version": "1.1.0-Build10",
-    "description": "Legacy Tool to view .ANI files",
+    "description": "Legacy Tool to view .ANI files, part of the Descent Manager Tools package.",
     "last_update": "2000-08-04",
     "cmdline": "",
     "packages": [
@@ -117,9 +117,9 @@
     ]
   },
   {
-    "name": "(DM-Tools) ModelView32 HI",
+    "name": "ModelView32 HI",
     "version": "1.0.0-Beta05Build28",
-    "description": "Legacy Tool to view .pof files",
+    "description": "Legacy Tool to view .pof files, part of the Descent Manager Tools package.",
     "last_update": "2002-12-24",
     "cmdline": "",
     "packages": [
@@ -132,9 +132,9 @@
     ]
   },
   {
-    "name": "(DM-Tools) VPView32",
+    "name": "VPView32",
     "version": "2.0.0-Beta05Build108",
-    "description": "Legacy Tool to view and extract .VP files",
+    "description": "Legacy Tool to view and extract .VP files, part of the Descent Manager Tools package.",
     "last_update": "2002-02-11",
     "cmdline": "",
     "packages": [
