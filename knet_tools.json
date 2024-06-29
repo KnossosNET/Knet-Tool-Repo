@@ -94,13 +94,13 @@
     "cmdline": "",
     "packages": [
       {
-        "download_url": "https://github.com/BMagnu/CurvEdit/releases/download/v1.1.0/curvedit-windows.zip",
+        "download_url": "https://github.com/BMagnu/CurvEdit/releases/download/v.1.1.0/curvedit-windows.zip",
         "os": "windows",
         "cpu_arch": "x64",
         "executable_path": "curvedit.exe"
       },
     {
-        "download_url": "https://github.com/BMagnu/CurvEdit/releases/download/v1.1.0/curvedit-linux.zip",
+        "download_url": "https://github.com/BMagnu/CurvEdit/releases/download/v.1.1.0/curvedit-linux.zip",
         "os": "linux",
         "cpu_arch": "x64",
         "executable_path": "curvedit"
