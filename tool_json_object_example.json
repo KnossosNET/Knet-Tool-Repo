@@ -9,7 +9,8 @@
 		"download_url": "", //direct download only, supported formats: .zip, .tar.gz
 		"os": "windows", //possible values: windows, linux or macosx
 		"cpu_arch": "x64", //possible values: x86, x64, arm64, separated by comas. keep in mind that in windows/mac "x86" also runs on x64 and arm64, and "x64" also runs on arm64. If not better option is provided.
-		"executable_path": "app.exe" //path to the executable, relative to the tool root folder. If the bin is inside a subfolder it should be something like this "folder/app.exe".
+		"executable_path": "app.exe", //path to the executable, relative to the tool root folder. If the bin is inside a subfolder it should be something like this "folder/app.exe".
+		"wine_support" : true or false //this means this current package can be used on linux via wine.
 	  }
 	]
 }
