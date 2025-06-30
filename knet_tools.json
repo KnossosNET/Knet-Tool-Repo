@@ -1,52 +1,52 @@
 [
   {
     "name": "VP.NET.GUI",
-    "version": "0.0.2",
-    "description": "VP.NET GUI is a .vp and .vpc viewer and extractor, you can open and extract mod files, including compressed mod files. It supports compressing and decompressing .vp and .vpc files in batches, as well as standalone .lz41 files. Version 0.0.2 adds 'Create vp from a folder' function.",
-    "last_update": "2024-01-30",
+    "version": "0.9.0-Beta",
+    "description": "VP.NET GUI is a .vp and .vpc viewer, editor and extractor, you can open and extract mod files, including compressed mod files. It supports compressing and decompressing .vp and .vpc files in batches, as well as standalone .lz41 files. Supports file previewer and previewing with external tools.",
+    "last_update": "2025-06-30",
     "cmdline": "",
     "packages": [
       {
-        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.0.2/win-x64.zip",
+        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.0-Beta/win-x64.zip",
         "os": "windows",
         "cpu_arch": "x64",
-        "executable_path": "win-x64/VP.NET.GUI.exe"
+        "executable_path": "VP.NET.GUI.exe"
       },
       {
-        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.0.2/win-x86.zip",
+        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.0-Beta/win-x86.zip",
         "os": "windows",
         "cpu_arch": "x86",
-        "executable_path": "win-x86/VP.NET.GUI.exe"
+        "executable_path": "VP.NET.GUI.exe"
       },
 	  {
-        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.0.2/win-arm64.zip",
+        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.0-Beta/win-arm64.zip",
         "os": "windows",
         "cpu_arch": "arm64",
-        "executable_path": "win-arm64/VP.NET.GUI.exe"
+        "executable_path": "VP.NET.GUI.exe"
       },
 	  {
-        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.0.2/osx-x64.zip",
+        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.0-Beta/osx-x64.zip",
         "os": "macosx",
         "cpu_arch": "x64",
-        "executable_path": "osx-x64/VP.NET.GUI"
+        "executable_path": "VP.NET.GUI"
       },
 	  {
-        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.0.2/osx-arm64.zip",
+        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.0-Beta/osx-arm64.zip",
         "os": "macosx",
         "cpu_arch": "arm64",
-        "executable_path": "osx-arm64/VP.NET.GUI"
+        "executable_path": "VP.NET.GUI"
       },
 	  {
-        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.0.2/linux-arm64.zip",
+        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.0-Beta/linux-arm64.zip",
         "os": "linux",
         "cpu_arch": "arm64",
-        "executable_path": "linux-arm64/VP.NET.GUI"
+        "executable_path": "VP.NET.GUI"
       },
 	  {
-        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.0.2/linux-x64.zip",
+        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.0-Beta/linux-x64.zip",
         "os": "linux",
         "cpu_arch": "x64",
-        "executable_path": "linux-x64/VP.NET.GUI"
+        "executable_path": "VP.NET.GUI"
       }
     ]
   },
