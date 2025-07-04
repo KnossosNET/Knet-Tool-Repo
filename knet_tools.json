@@ -7,43 +7,43 @@
     "cmdline": "",
     "packages": [
       {
-        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.0-Beta/win-x64.zip",
+        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.1-Beta/win-x64.zip",
         "os": "windows",
         "cpu_arch": "x64",
         "executable_path": "VP.NET.GUI.exe"
       },
       {
-        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.0-Beta/win-x86.zip",
+        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.1-Beta/win-x86.zip",
         "os": "windows",
         "cpu_arch": "x86",
         "executable_path": "VP.NET.GUI.exe"
       },
 	  {
-        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.0-Beta/win-arm64.zip",
+        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.1-Beta/win-arm64.zip",
         "os": "windows",
         "cpu_arch": "arm64",
         "executable_path": "VP.NET.GUI.exe"
       },
 	  {
-        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.0-Beta/osx-x64.zip",
+        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.1-Beta/osx-x64.zip",
         "os": "macosx",
         "cpu_arch": "x64",
         "executable_path": "VP.NET.GUI"
       },
 	  {
-        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.0-Beta/osx-arm64.zip",
+        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.1-Beta/osx-arm64.zip",
         "os": "macosx",
         "cpu_arch": "arm64",
         "executable_path": "VP.NET.GUI"
       },
 	  {
-        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.0-Beta/linux-arm64.zip",
+        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.1-Beta/linux-arm64.zip",
         "os": "linux",
         "cpu_arch": "arm64",
         "executable_path": "VP.NET.GUI"
       },
 	  {
-        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.0-Beta/linux-x64.zip",
+        "download_url": "https://github.com/Shivansps/VP.NET/releases/download/0.9.1-Beta/linux-x64.zip",
         "os": "linux",
         "cpu_arch": "x64",
         "executable_path": "VP.NET.GUI"
