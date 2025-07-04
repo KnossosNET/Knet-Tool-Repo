@@ -3,7 +3,7 @@
     "name": "VP.NET.GUI",
     "version": "0.9.1-Beta",
     "description": "VP.NET GUI is a .vp and .vpc viewer, editor and extractor, you can open and extract mod files, including compressed mod files. It supports compressing and decompressing .vp and .vpc files in batches, as well as standalone .lz41 files. Supports file previewer of modern formats and previewing with external tools.",
-    "last_update": "2025-06-30",
+    "last_update": "2025-07-04",
     "cmdline": "",
     "packages": [
       {
