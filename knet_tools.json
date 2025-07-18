@@ -1,4 +1,20 @@
-[
+[  {
+    "name": "AnimStudio",
+    "version": "1.0.0",
+    "description": "AnimStudio is a Qt-based application designed to import, preview, edit, quantize, and export animations compatible with the FreeSpace Open engine. It supports raw image sequences and FreeSpace-native animation formats like .ani, .eff, and .apng (exported as .png due to FSO filename limitations).
+	AnimStudio can be used interactively via its GUI or in batch mode from the command line for high-speed animation conversion workflows.
+	AnimStudio uses QT Designer for it's UI development.",
+    "last_update": "2025-07-18",
+    "cmdline": "",
+    "packages": [
+      {
+        "download_url": "https://github.com/MjnMixael/AnimStudio/releases/download/V1.0.0/AnimStudio.zipp",
+        "os": "windows",
+        "cpu_arch": "x86",
+        "executable_path": "AnimStudio/AnimStudio.exe"
+      }
+    ]
+  },
   {
     "name": "VP.NET.GUI",
     "version": "0.9.1-Beta",
