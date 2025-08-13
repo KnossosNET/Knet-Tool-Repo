@@ -1,4 +1,20 @@
-[  {
+[  
+  {
+    "name": "Randspeech",
+    "version": "1.0.0",
+    "description": "A Windows application that processes voice acting files for the FreeSpace game. It is capable of batch adding of message beeps and adds Vasudan speech overlay to human voices. The application can work in both GUI and command-line modes, supporting both single audio generation and batch processing.",
+    "last_update": "2025-08-13",
+    "cmdline": "",
+    "packages": [
+      {
+        "download_url": "https://github.com/xShivan/randspeech/releases/download/v1.0.0/randspeech-v1.0.0.zip",
+        "os": "windows",
+        "cpu_arch": "x86",
+        "executable_path": "publish/xShivan.Randspeech.exe"
+      }
+    ]
+  },
+  {
     "name": "AnimStudio",
     "version": "1.1.0",
     "description": "AnimStudio is a Qt-based application designed to import, preview, edit, quantize, and export animations compatible with the FreeSpace Open engine. It supports raw image sequences and FreeSpace-native animation formats like .ani, .eff, and .apng (exported as .png due to FSO filename limitations). AnimStudio can be used interactively via its GUI or in batch mode from the command line for high-speed animation conversion workflows. AnimStudio uses QT Designer for its UI development.",
