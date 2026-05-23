@@ -1,4 +1,34 @@
-[  
+[
+  {
+    "name": "FS2 Message Exporter",
+    "version": "1.0.0",
+    "description": "Exports campaign dialogue, heads and animations to Excel format, to make it easier to manually check whether head animations, message names, etc. are in the right places.",
+    "last_update": "2026-05-23",
+    "cmdline": "",
+    "packages": [
+      {
+        "download_url": "https://github.com/jlberman/freespace-2-utilities/releases/download/New-release/all.utilities.zip",
+        "os": "windows",
+        "cpu_arch": "x86",
+        "executable_path": "FS2 Message Exporter.exe"
+      }
+    ]
+  },
+  {
+    "name": "FS2 Dialogue and Briefing Extractor",
+    "version": "1.0.0",
+    "description": "A campaign dialogue and briefing data extractor which exports things to TXT file, so it looks like a proper script to a play or a TV show.",
+    "last_update": "2026-05-23",
+    "cmdline": "",
+    "packages": [
+      {
+        "download_url": "https://github.com/jlberman/freespace-2-utilities/releases/download/New-release/all.utilities.zip",
+        "os": "windows",
+        "cpu_arch": "x86",
+        "executable_path": "FS2 Dialogue and Briefing Extractor.exe"
+      }
+    ]
+  },
   {
     "name": "Randspeech",
     "version": "1.0.0",
@@ -141,7 +171,7 @@
   {
     "name": "ANIBuilder32",
     "version": "1.0.0-Beta01Build04",
-    "description": "Legacy Tool to make .ANI files, part of the Descent Manager Tools package.",
+    "description": "(THIS IS A LEGACY TOOL, USE ONLY IF YOU MUST) Make .ANI files, part of the Descent Manager Tools package.",
     "last_update": "2000-08-03",
     "cmdline": "",
     "packages": [
@@ -156,7 +186,7 @@
   {
     "name": "ANIView32",
     "version": "1.1.0-Build10",
-    "description": "Legacy Tool to view .ANI files, part of the Descent Manager Tools package.",
+    "description": "(THIS IS A LEGACY TOOL, USE ONLY IF YOU MUST) View .ANI files, part of the Descent Manager Tools package.",
     "last_update": "2000-08-04",
     "cmdline": "",
     "packages": [
@@ -171,7 +201,7 @@
   {
     "name": "ModelView32 HI",
     "version": "1.0.0-Beta05Build28",
-    "description": "Legacy Tool to view .pof files, part of the Descent Manager Tools package.",
+    "description": "(THIS IS A LEGACY TOOL, USE ONLY IF YOU MUST) View .pof files, part of the Descent Manager Tools package.",
     "last_update": "2002-12-24",
     "cmdline": "",
     "packages": [
@@ -186,7 +216,7 @@
   {
     "name": "VPView32",
     "version": "2.0.0-Beta05Build108",
-    "description": "Legacy Tool to view and extract .VP files, part of the Descent Manager Tools package.",
+    "description": "(THIS IS A LEGACY TOOL, USE ONLY IF YOU MUST) View and extract .VP files, part of the Descent Manager Tools package.",
     "last_update": "2002-02-11",
     "cmdline": "",
     "packages": [
@@ -201,7 +231,7 @@
   {
     "name": "VP Constructor Suite 2",
     "version": "1.0.0-RC1",
-    "description": "Legacy tool to make VPs",
+    "description": "(THIS IS A LEGACY TOOL, USE ONLY IF YOU MUST) Legacy tool to make VPs",
     "last_update": "2004-12-27",
     "cmdline": "",
     "packages": [
