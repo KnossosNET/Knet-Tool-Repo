@@ -242,5 +242,26 @@
         "executable_path": "vpcs2.exe"
       }
     ]
+  },
+  {
+    "name": "QtVP",
+    "version": "1.0.0",
+    "description": "A VP archive viewer and extractor for FreeSpace Open.",
+    "last_update": "2026-10-19",
+    "cmdline": "",
+    "packages": [
+      {
+        "download_url": "https://github.com/MjnMixael/QtVP/releases/download/V1.0.0/QtVP-V1.0.0-win64.zip",
+        "os": "windows",
+        "cpu_arch": "x64",
+        "executable_path": "QtVP.exe"
+      },
+      {
+        "download_url": "https://github.com/MjnMixael/QtVP/releases/download/V1.0.0/QtVP-V1.0.0-linux-x86_64.zip",
+        "os": "linux",
+        "cpu_arch": "x64",
+        "executable_path": "usr/bin/QtVP"
+      }
+    ]
   }
 ]
