@@ -46,16 +46,22 @@
   },
   {
     "name": "AnimStudio",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "description": "AnimStudio is a Qt-based application designed to import, preview, edit, quantize, and export animations compatible with the FreeSpace Open engine. It supports raw image sequences(including DDS) and FreeSpace-native animation formats like .ani, .eff, and .apng (exported as .png due to FSO filename limitations). AnimStudio can be used interactively via its GUI or in batch mode from the command line for high-speed animation conversion workflows. AnimStudio uses QT Designer for its UI development.",
-    "last_update": "2026-07-21",
+    "last_update": "2026-10-19",
     "cmdline": "",
     "packages": [
       {
-        "download_url": "https://github.com/MjnMixael/AnimStudio/releases/download/V1.3.0/AnimStudio-V1.3.0-win64.zip",
+        "download_url": "https://github.com/MjnMixael/AnimStudio/releases/download/V1.4.0/AnimStudio-V1.4.0-win64.zip",
         "os": "windows",
-        "cpu_arch": "x86",
+        "cpu_arch": "x64",
         "executable_path": "AnimStudio.exe"
+      },
+      {
+        "download_url": "https://github.com/MjnMixael/AnimStudio/releases/download/V1.4.0/AnimStudio-V1.4.0-linux-x86_64.zip",
+        "os": "linux",
+        "cpu_arch": "x64",
+        "executable_path": "usr/bin/AnimStudio"
       }
     ]
   },
@@ -128,22 +134,6 @@
         "os": "linux",
         "cpu_arch": "x64",
         "executable_path": "pof-tools"
-      }
-    ]
-  },
-  {
-    "name": "Etemenanki",
-    "version": "1.5.0",
-    "description": "Etemenanki is a tool meant to facilitate creating a full tstrings.tbl for games in the FreespaceOpen engine. It recursively scans a directory for valid files and uses regex to find translatable strings and string IDs. It will then replace the ID with a valid one and save the string and ID to the generated tstrings.tbl file.",
-    "last_update": "2026-07-21",
-    "cmdline": "",
-    "packages": [
-      {
-        "download_url": "https://github.com/MjnMixael/Etemenanki/releases/download/Version_1.5.0/Etemenanki-Version_1.5.0-win64.zip",
-        "os": "windows",
-        "cpu_arch": "x64",
-        "executable_path": "Release/Etemenanki.exe",
-		"wine_support": true
       }
     ]
   },
@@ -240,6 +230,27 @@
         "os": "windows",
         "cpu_arch": "x86",
         "executable_path": "vpcs2.exe"
+      }
+    ]
+  },
+  {
+    "name": "Etak",
+    "version": "2.0.0",
+    "description": "A translation tool for FreeSpace Open that generates tstrings.tbl.",
+    "last_update": "2026-10-19",
+    "cmdline": "",
+    "packages": [
+      {
+        "download_url": "https://github.com/MjnMixael/Etak/releases/download/Version_2.0.0/Etak-Version_2.0.0-win64.zip",
+        "os": "windows",
+        "cpu_arch": "x64",
+        "executable_path": "Release/Etak.exe"
+      },
+      {
+        "download_url": "https://github.com/MjnMixael/Etak/releases/download/Version_2.0.0/Etak-Version_2.0.0-linux-x86_64.zip",
+        "os": "linux",
+        "cpu_arch": "x64",
+        "executable_path": "usr/bin/Etak"
       }
     ]
   },
